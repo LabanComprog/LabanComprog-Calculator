@@ -1,1 +1,3 @@
-# ideal-guide
+# Project_Calculator
+
+Computer Programming project
